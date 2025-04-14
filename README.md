@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola, mi nombre es Eduardo Chasco👋
 
+![https://github.com/echasco](./echasco_github_profile.png)
+
+Soy Ingeniero en Computación e Informática con un Máster en Ciberseguridad y más de 10 años de experiencia en infraestructura y gestión de proyectos de Tecnología de la Información.
+
+Dedicado desde hace 5 años a la detección, tratamiento y resolución de amenazas, implementado soluciones tecnológicas que permitan disminuir el riesgo de exposición de los activos, supervisión de redes, desarrollo de medidas, políticas y procedimientos de seguridad, y elaboración deinformes técnicos.
 <!--
 **echasco/echasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
